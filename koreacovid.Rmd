@@ -56,6 +56,16 @@ barchartGC(~result + Sex,data=kRdata,type="percent", main ="Percent Bar Chart")
   
 ## Numerical results
 
+```{r}
+table1 <- xtabs(~result + sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+
+### Looking at our numerical data results, it tells us that 56% of females are alive compared to 44% of males. Looking at the dead, males almost double female in death by 64% and only 36% of females died. 
+
+### Percentage wise, 98.7% of the female population are alive and 97% of the male population are alive. Males are double in the death catagory compared to females.  
+
 
 ## Inferential results 
 
