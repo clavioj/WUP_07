@@ -79,10 +79,10 @@ fisher.test(table1)
 
 The odds of dying if your'e male is %3.11 & when your'e female is %1.36.  
 The odds ratio of dying is %2.3 to 1.  
-The P-Value is 0.0009.  
+The P-Value is 0.0012.  
   
 ## Conclusions
 
 Based on our data however, we found a difference from our sample size at %3.11 for males dying and %1.36 of females dying.  
-With the p-value at 0.0009, it is unlikely that the differences in sex matters when it comes to COVID-19 deaths.  
+With the p-value at 0.0012, it is unlikely that the differences in sex matters when it comes to COVID-19 deaths.  
 Therefore, we accept the Null Hypothesis in that there is no difference in the amounts of deaths from COVID-19 between male and females. 
