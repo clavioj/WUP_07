@@ -79,7 +79,7 @@ fisher.test(table1)
 
 The odds of dying if your'e male is %3.11 & when your'e female is %1.36.  
 The odds ratio of dying is %2.3 to 1.  
-The P-Value is 0.0012.  
+The P-Value is 0.0012.   
   
 ## Conclusions
 
